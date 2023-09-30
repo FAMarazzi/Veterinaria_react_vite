@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.letraAzul{
+  color: rgb(103, 186, 214);
+}
